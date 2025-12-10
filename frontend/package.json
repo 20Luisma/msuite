@@ -12,7 +12,7 @@
     "autoprefixer": "^10.4.20",
     "axios": "^1.7.9",
     "dompurify": "^3.2.5",
-    "framer-motion": "^12.7.4",
+    "framer-motion": "^12.23.24",
     "postcss": "^8.5.2",
     "prismjs": "^1.30.0",
     "qrcode.react": "^4.2.0",
